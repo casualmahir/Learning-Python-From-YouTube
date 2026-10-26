@@ -14,8 +14,8 @@ My practice code and homework exercises while learning Python from free YouTube 
 | Functions & Recursion | parameters, return values, recursive problems |
 | File Input & Output | reading and writing files |
 | Object Oriented Programming | classes, objects, inheritance |
-| Mini Project 1 | | number guessing game |
-| Mini Project 2 | | random password generator |
+| Mini Project 1 | number guessing game |
+| Mini Project 2 | random password generator |
 
 ## About
 
