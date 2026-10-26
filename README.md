@@ -14,12 +14,13 @@ My practice code and homework exercises while learning Python from free YouTube 
 | Functions & Recursion | parameters, return values, recursive problems |
 | File Input & Output | reading and writing files |
 | Object Oriented Programming | classes, objects, inheritance |
+| Mini Project 1 | | number guessing game |
+| Mini Project 2 | | random password generator |
 
 ## About
 
 - Every file is code I typed while following along or solving homework.
 - This is Phase 1 of my self-built AI/ML roadmap.
-- Next up: Data Science with NumPy and pandas.
 
 ## Course
 
