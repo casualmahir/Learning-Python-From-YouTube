@@ -21,7 +21,7 @@ My practice code and homework exercises while learning Python from free YouTube 
 
 - Every file is code I typed while following along or solving homework.
 - This is Phase 1 of my self-built AI/ML roadmap.
-
+- Next up: [CS50P-Codes](https://github.com/casualmahir/CS50P-Codes), the full CS50P course with my final project.
 ## Course
 
 [Python Tutorial](https://youtu.be/ERCMXc8x7mc)
